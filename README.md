@@ -18,5 +18,5 @@ You're looking at Christian's Github Page... 🤘
     <a href="https://twitter.com/orangecoding" target="_blank"><img src="https://img.shields.io/badge/-twitter-0f9bfb?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   </div>
 
-<img alt="Christian's Activity Graph" src=" https://github-readme-activity-graph.vercel.app/graph/?username=orangecoding&bg_color=22272d&color=fff&line=00E676&point=fff&hide_border=true" />
+<img alt="Christian's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=orangecoding&theme=react" />
 
