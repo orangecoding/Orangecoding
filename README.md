@@ -1,7 +1,7 @@
 ##### Heeeyyyy 👋
 You're looking at Christian's Github Page... 🤘
 
-##### Lead Engineer @Instana with lots of ❤️ for Open Source and truly nerdy stuff
+##### Senior Staff Software Engineer @IBM with lots of ❤️ for Open Source and truly nerdy stuff
 
  <div>
   <a href="https://github.com/orangecoding">
