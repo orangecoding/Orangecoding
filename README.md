@@ -15,7 +15,7 @@ You're looking at Christian's Github Page... 🤘
     <a href="https://orangecoding.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCOnk8w51dai8imE9VeOIwJw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/christian-kellner-583242118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://twitter.com/orangecoding" target="_blank"><img src="https://img.shields.io/badge/-twitter-0f9bfb?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    <a href="https://daily-digest.net" target="_blank"><img src="https://daily-digest.net/images/logo-64x64-transparent.png" target="_blank"></a> 
   </div>
 
 <img alt="Christian's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=orangecoding&theme=react" />
